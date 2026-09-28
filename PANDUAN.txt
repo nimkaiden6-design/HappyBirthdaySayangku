@@ -1,0 +1,16 @@
+WEBSITE ULANG TAHUN + PIANO ROMANTIS
+
+Untuk ulang tahun 30 September 2026.
+
+1. Buka index.html dengan Chrome, Edge, atau browser lain.
+2. Klik "Buka kejutanmu". Musik mulai dari klik tersebut, bukan saat file pertama dibuka.
+3. Tombol Musik di atas dan tombol Putar pada kartu musik mengendalikan lagu yang sama.
+4. Gunakan pengatur volume atau volume perangkat. Posisi lagu dapat digeser.
+5. Musik berulang dan berhenti sementara ketika halaman tidak aktif.
+6. Lagu adalah instrumental tanpa vokal, berdurasi sekitar 1 menit 18 detik.
+7. Audio sudah disatukan ke dalam HTML sehingga file HTML tetap dapat dipakai tanpa file MP3 terpisah.
+8. Tombol pensil tetap dapat dipakai untuk mengubah nama, surat, dan foto.
+9. Klik "Unduh HTML personal" setelah mengubah nama/foto agar audio dan perubahan ikut dibagikan.
+
+File selamat_ulang_tahun_piano_romantis.mp3 tersedia untuk diputar secara terpisah.
+Penampilan musik ini disintesis dari instrumen virtual; bukan rekaman penyanyi tertentu.
